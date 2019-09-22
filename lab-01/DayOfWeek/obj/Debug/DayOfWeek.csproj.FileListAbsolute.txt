@@ -1,0 +1,7 @@
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\DayOfWeek\bin\Debug\DayOfWeek.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\DayOfWeek\bin\Debug\DayOfWeek.pdb
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\DayOfWeek\obj\Debug\DayOfWeek.csprojAssemblyReference.cache
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\DayOfWeek\obj\Debug\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\DayOfWeek\obj\Debug\DayOfWeek.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\DayOfWeek\obj\Debug\DayOfWeek.pdb

@@ -1,0 +1,7 @@
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\FloatingPointValuesToVariables\bin\Debug\FloatingPointValuesToVariables.exe.config
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\FloatingPointValuesToVariables\bin\Debug\FloatingPointValuesToVariables.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\FloatingPointValuesToVariables\bin\Debug\FloatingPointValuesToVariables.pdb
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\FloatingPointValuesToVariables\obj\Debug\FloatingPointValuesToVariables.csprojAssemblyReference.cache
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\FloatingPointValuesToVariables\obj\Debug\FloatingPointValuesToVariables.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\FloatingPointValuesToVariables\obj\Debug\FloatingPointValuesToVariables.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\FloatingPointValuesToVariables\obj\Debug\FloatingPointValuesToVariables.pdb

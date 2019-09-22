@@ -1,0 +1,6 @@
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\PureDivisor\bin\Debug\PureDivisor.exe.config
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\PureDivisor\bin\Debug\PureDivisor.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\PureDivisor\bin\Debug\PureDivisor.pdb
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\PureDivisor\obj\Debug\PureDivisor.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\PureDivisor\obj\Debug\PureDivisor.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\PureDivisor\obj\Debug\PureDivisor.pdb

@@ -1,0 +1,7 @@
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\SignOfProduct\bin\Debug\SignOfProduct.exe.config
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\SignOfProduct\bin\Debug\SignOfProduct.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\SignOfProduct\bin\Debug\SignOfProduct.pdb
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\SignOfProduct\obj\Debug\SignOfProduct.csprojAssemblyReference.cache
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\SignOfProduct\obj\Debug\SignOfProduct.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\SignOfProduct\obj\Debug\SignOfProduct.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\SignOfProduct\obj\Debug\SignOfProduct.pdb
