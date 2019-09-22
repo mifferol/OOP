@@ -1,0 +1,7 @@
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\06.Area\bin\Debug\06.Area.exe.config
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\06.Area\bin\Debug\06.Area.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\06.Area\bin\Debug\06.Area.pdb
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\06.Area\obj\Debug\06.Area.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\06.Area\obj\Debug\06.Area.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\06.Area\obj\Debug\06.Area.pdb
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\06.Area\obj\Debug\06.Area.csprojAssemblyReference.cache
