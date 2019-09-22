@@ -1,0 +1,6 @@
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\BiggestOfThree\obj\Debug\BiggestOfThree.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\BiggestOfThree\bin\Debug\BiggestOfThree.exe.config
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\BiggestOfThree\bin\Debug\BiggestOfThree.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\BiggestOfThree\bin\Debug\BiggestOfThree.pdb
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\BiggestOfThree\obj\Debug\BiggestOfThree.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\BiggestOfThree\obj\Debug\BiggestOfThree.pdb

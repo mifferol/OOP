@@ -1,0 +1,6 @@
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\07.LastDigit\bin\Debug\07.LastDigit.exe.config
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\07.LastDigit\bin\Debug\07.LastDigit.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\07.LastDigit\bin\Debug\07.LastDigit.pdb
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\07.LastDigit\obj\Debug\07.LastDigit.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\07.LastDigit\obj\Debug\07.LastDigit.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\07.LastDigit\obj\Debug\07.LastDigit.pdb

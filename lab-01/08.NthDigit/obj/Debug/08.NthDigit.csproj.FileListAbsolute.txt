@@ -1,0 +1,7 @@
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\08.NthDigit\bin\Debug\08.NthDigit.exe.config
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\08.NthDigit\bin\Debug\08.NthDigit.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\08.NthDigit\bin\Debug\08.NthDigit.pdb
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\08.NthDigit\obj\Debug\08.NthDigit.csprojAssemblyReference.cache
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\08.NthDigit\obj\Debug\08.NthDigit.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\08.NthDigit\obj\Debug\08.NthDigit.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\08.NthDigit\obj\Debug\08.NthDigit.pdb

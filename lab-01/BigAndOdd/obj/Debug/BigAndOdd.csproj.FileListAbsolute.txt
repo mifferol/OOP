@@ -1,0 +1,7 @@
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\BigAndOdd\obj\Debug\BigAndOdd.csprojAssemblyReference.cache
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\BigAndOdd\obj\Debug\BigAndOdd.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\BigAndOdd\bin\Debug\BigAndOdd.exe.config
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\BigAndOdd\bin\Debug\BigAndOdd.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\BigAndOdd\bin\Debug\BigAndOdd.pdb
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\BigAndOdd\obj\Debug\BigAndOdd.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\BigAndOdd\obj\Debug\BigAndOdd.pdb

@@ -1,0 +1,7 @@
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\05.Average\bin\Debug\05.Average.exe.config
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\05.Average\bin\Debug\05.Average.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\05.Average\bin\Debug\05.Average.pdb
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\05.Average\obj\Debug\05.Average.csprojAssemblyReference.cache
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\05.Average\obj\Debug\05.Average.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\05.Average\obj\Debug\05.Average.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\05.Average\obj\Debug\05.Average.pdb

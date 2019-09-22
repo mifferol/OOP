@@ -1,0 +1,6 @@
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\04.CharStringValuesToVariables\bin\Debug\04.CharStringValuesToVariables.exe.config
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\04.CharStringValuesToVariables\bin\Debug\04.CharStringValuesToVariables.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\04.CharStringValuesToVariables\bin\Debug\04.CharStringValuesToVariables.pdb
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\04.CharStringValuesToVariables\obj\Debug\04.CharStringValuesToVariables.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\04.CharStringValuesToVariables\obj\Debug\04.CharStringValuesToVariables.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\04.CharStringValuesToVariables\obj\Debug\04.CharStringValuesToVariables.pdb

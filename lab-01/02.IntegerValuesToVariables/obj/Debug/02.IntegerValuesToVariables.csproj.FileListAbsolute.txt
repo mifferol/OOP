@@ -1,0 +1,6 @@
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\02.IntegerValuesToVariables\obj\Debug\02.IntegerValuesToVariables.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\02.IntegerValuesToVariables\bin\Debug\02.IntegerValuesToVariables.exe.config
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\02.IntegerValuesToVariables\bin\Debug\02.IntegerValuesToVariables.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\02.IntegerValuesToVariables\bin\Debug\02.IntegerValuesToVariables.pdb
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\02.IntegerValuesToVariables\obj\Debug\02.IntegerValuesToVariables.exe
+C:\Users\Marina\source\repos\IntroToProgrammingHomework\02.IntegerValuesToVariables\obj\Debug\02.IntegerValuesToVariables.pdb
