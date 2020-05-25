@@ -1,0 +1,132 @@
+D:\studies\ООП\OOP\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\studies\ООП\OOP\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\studies\ООП\OOP\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\studies\ООП\OOP\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\PoliclinicApp.exe
+D:\studies\ООП\OOP\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\PoliclinicApp.deps.json
+D:\studies\ООП\OOP\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\PoliclinicApp.runtimeconfig.json
+D:\studies\ООП\OOP\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\PoliclinicApp.runtimeconfig.dev.json
+D:\studies\ООП\OOP\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\PoliclinicApp.dll
+D:\studies\ООП\OOP\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\PoliclinicApp.pdb
+D:\studies\ООП\OOP\Policlinic\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.csprojAssemblyReference.cache
+D:\studies\ООП\OOP\Policlinic\PoliclinicApp\obj\Debug\netcoreapp3.1\staticwebassets\PoliclinicApp.StaticWebAssets.Manifest.cache
+D:\studies\ООП\OOP\Policlinic\PoliclinicApp\obj\Debug\netcoreapp3.1\staticwebassets\PoliclinicApp.StaticWebAssets.xml
+D:\studies\ООП\OOP\Policlinic\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.MvcApplicationPartsAssemblyInfo.cache
+D:\studies\ООП\OOP\Policlinic\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.AssemblyInfoInputs.cache
+D:\studies\ООП\OOP\Policlinic\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.AssemblyInfo.cs
+D:\studies\ООП\OOP\Policlinic\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.RazorTargetAssemblyInfo.cache
+D:\studies\ООП\OOP\Policlinic\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.dll
+D:\studies\ООП\OOP\Policlinic\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.pdb
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\PoliclinicApp.exe
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\PoliclinicApp.deps.json
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\PoliclinicApp.runtimeconfig.json
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\PoliclinicApp.runtimeconfig.dev.json
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\PoliclinicApp.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\PoliclinicApp.pdb
+D:\studies\ООП\Policlinic\PoliclinicApp\obj\Debug\netcoreapp3.1\staticwebassets\PoliclinicApp.StaticWebAssets.Manifest.cache
+D:\studies\ООП\Policlinic\PoliclinicApp\obj\Debug\netcoreapp3.1\staticwebassets\PoliclinicApp.StaticWebAssets.xml
+D:\studies\ООП\Policlinic\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.AssemblyInfoInputs.cache
+D:\studies\ООП\Policlinic\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.AssemblyInfo.cs
+D:\studies\ООП\Policlinic\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.RazorTargetAssemblyInfo.cache
+D:\studies\ООП\Policlinic\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.pdb
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\packages\Microsoft.EntityFrameworkCore.Tools.3.1.4\tools\netcoreapp2.0\any\ef.runtimeconfig.json
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.csproj.CopyComplete
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.csprojAssemblyReference.cache
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\.filenesting.json
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\DAL.exe
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\DAL.exe.config
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\studies\ООП\Policlinic\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.MvcApplicationPartsAssemblyInfo.cache
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\.filenesting.json
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\packages\Microsoft.EntityFrameworkCore.Tools.3.1.4\tools\netcoreapp2.0\any\ef.runtimeconfig.json
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\PoliclinicApp.exe
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\PoliclinicApp.deps.json
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\PoliclinicApp.runtimeconfig.json
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\PoliclinicApp.runtimeconfig.dev.json
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\PoliclinicApp.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\PoliclinicApp.pdb
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\DAL.exe
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\bin\Debug\netcoreapp3.1\DAL.exe.config
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.csprojAssemblyReference.cache
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\obj\Debug\netcoreapp3.1\staticwebassets\PoliclinicApp.StaticWebAssets.Manifest.cache
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\obj\Debug\netcoreapp3.1\staticwebassets\PoliclinicApp.StaticWebAssets.xml
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.MvcApplicationPartsAssemblyInfo.cache
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.AssemblyInfoInputs.cache
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.AssemblyInfo.cs
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.RazorTargetAssemblyInfo.cache
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.csproj.CopyComplete
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.dll
+D:\studies\ООП\Policlinic — копия\PoliclinicApp\obj\Debug\netcoreapp3.1\PoliclinicApp.pdb
