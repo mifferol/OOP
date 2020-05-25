@@ -4966,6 +4966,7 @@
     ".NETCoreApp,Version=v3.1": [
       "DAL >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 3.1.4",
+      "Microsoft.EntityFrameworkCore.Design >= 3.1.4",
       "Microsoft.EntityFrameworkCore.Relational >= 3.1.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.4",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.4"
@@ -4978,11 +4979,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\studies\\ООП\\Policlinic — копия\\PoliclinicApp\\PoliclinicApp.csproj",
+      "projectUniqueName": "D:\\studies\\ООП\\OOP\\Policlinic\\PoliclinicApp\\PoliclinicApp.csproj",
       "projectName": "PoliclinicApp",
-      "projectPath": "D:\\studies\\ООП\\Policlinic — копия\\PoliclinicApp\\PoliclinicApp.csproj",
+      "projectPath": "D:\\studies\\ООП\\OOP\\Policlinic\\PoliclinicApp\\PoliclinicApp.csproj",
       "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
-      "outputPath": "D:\\studies\\ООП\\Policlinic — копия\\PoliclinicApp\\obj\\",
+      "outputPath": "D:\\studies\\ООП\\OOP\\Policlinic\\PoliclinicApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5001,8 +5002,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\studies\\ООП\\Policlinic — копия\\DAL\\DAL.csproj": {
-              "projectPath": "D:\\studies\\ООП\\Policlinic — копия\\DAL\\DAL.csproj"
+            "D:\\studies\\ООП\\OOP\\Policlinic\\DAL\\DAL.csproj": {
+              "projectPath": "D:\\studies\\ООП\\OOP\\Policlinic\\DAL\\DAL.csproj"
             }
           }
         }
@@ -5017,6 +5018,12 @@
       "netcoreapp3.1": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[3.1.4, )"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
             "target": "Package",
             "version": "[3.1.4, )"
           },

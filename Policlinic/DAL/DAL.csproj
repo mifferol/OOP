@@ -140,6 +140,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Migrations\20200525185553_DAL.Models.RepositoryContext.cs" />
+    <Compile Include="Migrations\20200525185553_DAL.Models.RepositoryContext.designer.cs">
+      <DependentUpon>20200525185553_DAL.Models.RepositoryContext.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\20200525190630_NewTables.cs" />
+    <Compile Include="Migrations\20200525190630_NewTables.designer.cs">
+      <DependentUpon>20200525190630_NewTables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\20200525190858_Tables.cs" />
+    <Compile Include="Migrations\20200525190858_Tables.designer.cs">
+      <DependentUpon>20200525190858_Tables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\RepositoryContextModelSnapshot.cs" />
     <Compile Include="Models\Diagnosis.cs" />
     <Compile Include="Models\Doctors.cs" />
     <Compile Include="Models\Patients.cs" />
